@@ -1,5 +1,5 @@
 package com.app;
-
+//class for creating a measurement object.
 public class Measurement {
     private double time;
     private double value;
